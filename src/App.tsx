@@ -9,7 +9,22 @@ import img7 from '../img_7.jpg';
 import img8 from '../img_8.jpg';
 import img9 from '../img_9.jpg';
 import img10 from '../img_10.jpg';
-
+import img11 from '../img_11.jpg';
+import img12 from '../img_12.jpg';
+import img13 from '../img_13.jpg';
+import img14 from '../img_14.jpg';
+import img15 from '../img_15.jpg';
+import img16 from '../img_16.jpg';
+import img17 from '../img_17.jpg';
+import img18 from '../img_18.jpg';
+import img19 from '../img_19.jpg';
+import img20 from '../img_20.jpg';
+import img21 from '../img_21.jpg';
+import img22 from '../img_22.jpg';
+import img23 from '../img_23.jpg';
+import img24 from '../img_24.jpg';
+import img25 from '../img_25.jpg';
+import img26 from '../img_26.jpg';
 
 
 export default function App() {
@@ -223,6 +238,182 @@ export default function App() {
             <img 
               // Replace with your first Google Photos URL
               src={img9}
+              alt="חווה עם משפחתה" 
+              className="w-full h-80 object-cover"
+            />
+            <div className="absolute inset-0 bg-gradient-to-t from-black/70 to-transparent opacity-0 group-hover:opacity-100 transition-opacity duration-300">
+              <p className="absolute bottom-4 right-4 text-white text-lg">חווה ואחותה מרתה </p>
+            </div>
+          </div>
+          <div className="group relative overflow-hidden rounded-xl shadow-xl transition-transform duration-300 hover:scale-105">
+            <img 
+              // Replace with your first Google Photos URL
+              src={img11}
+              alt="חווה עם משפחתה" 
+              className="w-full h-80 object-cover"
+            />
+            <div className="absolute inset-0 bg-gradient-to-t from-black/70 to-transparent opacity-0 group-hover:opacity-100 transition-opacity duration-300">
+              <p className="absolute bottom-4 right-4 text-white text-lg">חווה ואחותה מרתה </p>
+            </div>
+          </div>
+          <div className="group relative overflow-hidden rounded-xl shadow-xl transition-transform duration-300 hover:scale-105">
+            <img 
+              // Replace with your first Google Photos URL
+              src={img12}
+              alt="חווה עם משפחתה" 
+              className="w-full h-80 object-cover"
+            />
+            <div className="absolute inset-0 bg-gradient-to-t from-black/70 to-transparent opacity-0 group-hover:opacity-100 transition-opacity duration-300">
+              <p className="absolute bottom-4 right-4 text-white text-lg">חווה ואחותה מרתה </p>
+            </div>
+          </div>
+          <div className="group relative overflow-hidden rounded-xl shadow-xl transition-transform duration-300 hover:scale-105">
+            <img 
+              // Replace with your first Google Photos URL
+              src={img13}
+              alt="חווה עם משפחתה" 
+              className="w-full h-80 object-cover"
+            />
+            <div className="absolute inset-0 bg-gradient-to-t from-black/70 to-transparent opacity-0 group-hover:opacity-100 transition-opacity duration-300">
+              <p className="absolute bottom-4 right-4 text-white text-lg">חווה ואחותה מרתה </p>
+            </div>
+          </div>
+          <div className="group relative overflow-hidden rounded-xl shadow-xl transition-transform duration-300 hover:scale-105">
+            <img 
+              // Replace with your first Google Photos URL
+              src={img14}
+              alt="חווה עם משפחתה" 
+              className="w-full h-80 object-cover"
+            />
+            <div className="absolute inset-0 bg-gradient-to-t from-black/70 to-transparent opacity-0 group-hover:opacity-100 transition-opacity duration-300">
+              <p className="absolute bottom-4 right-4 text-white text-lg">חווה ואחותה מרתה </p>
+            </div>
+          </div>
+          <div className="group relative overflow-hidden rounded-xl shadow-xl transition-transform duration-300 hover:scale-105">
+            <img 
+              // Replace with your first Google Photos URL
+              src={img15}
+              alt="חווה עם משפחתה" 
+              className="w-full h-80 object-cover"
+            />
+            <div className="absolute inset-0 bg-gradient-to-t from-black/70 to-transparent opacity-0 group-hover:opacity-100 transition-opacity duration-300">
+              <p className="absolute bottom-4 right-4 text-white text-lg">חווה ואחותה מרתה </p>
+            </div>
+          </div>
+          <div className="group relative overflow-hidden rounded-xl shadow-xl transition-transform duration-300 hover:scale-105">
+            <img 
+              // Replace with your first Google Photos URL
+              src={img16}
+              alt="חווה עם משפחתה" 
+              className="w-full h-80 object-cover"
+            />
+            <div className="absolute inset-0 bg-gradient-to-t from-black/70 to-transparent opacity-0 group-hover:opacity-100 transition-opacity duration-300">
+              <p className="absolute bottom-4 right-4 text-white text-lg">חווה ואחותה מרתה </p>
+            </div>
+          </div>
+          <div className="group relative overflow-hidden rounded-xl shadow-xl transition-transform duration-300 hover:scale-105">
+            <img 
+              // Replace with your first Google Photos URL
+              src={img17}
+              alt="חווה עם משפחתה" 
+              className="w-full h-80 object-cover"
+            />
+            <div className="absolute inset-0 bg-gradient-to-t from-black/70 to-transparent opacity-0 group-hover:opacity-100 transition-opacity duration-300">
+              <p className="absolute bottom-4 right-4 text-white text-lg">חווה ואחותה מרתה </p>
+            </div>
+          </div>
+          <div className="group relative overflow-hidden rounded-xl shadow-xl transition-transform duration-300 hover:scale-105">
+            <img 
+              // Replace with your first Google Photos URL
+              src={img18}
+              alt="חווה עם משפחתה" 
+              className="w-full h-80 object-cover"
+            />
+            <div className="absolute inset-0 bg-gradient-to-t from-black/70 to-transparent opacity-0 group-hover:opacity-100 transition-opacity duration-300">
+              <p className="absolute bottom-4 right-4 text-white text-lg">חווה ואחותה מרתה </p>
+            </div>
+          </div>
+          <div className="group relative overflow-hidden rounded-xl shadow-xl transition-transform duration-300 hover:scale-105">
+            <img 
+              // Replace with your first Google Photos URL
+              src={img19}
+              alt="חווה עם משפחתה" 
+              className="w-full h-80 object-cover"
+            />
+            <div className="absolute inset-0 bg-gradient-to-t from-black/70 to-transparent opacity-0 group-hover:opacity-100 transition-opacity duration-300">
+              <p className="absolute bottom-4 right-4 text-white text-lg">חווה ואחותה מרתה </p>
+            </div>
+          </div>
+          <div className="group relative overflow-hidden rounded-xl shadow-xl transition-transform duration-300 hover:scale-105">
+            <img 
+              // Replace with your first Google Photos URL
+              src={img20}
+              alt="חווה עם משפחתה" 
+              className="w-full h-80 object-cover"
+            />
+            <div className="absolute inset-0 bg-gradient-to-t from-black/70 to-transparent opacity-0 group-hover:opacity-100 transition-opacity duration-300">
+              <p className="absolute bottom-4 right-4 text-white text-lg">חווה ואחותה מרתה </p>
+            </div>
+          </div>
+          <div className="group relative overflow-hidden rounded-xl shadow-xl transition-transform duration-300 hover:scale-105">
+            <img 
+              // Replace with your first Google Photos URL
+              src={img21}
+              alt="חווה עם משפחתה" 
+              className="w-full h-80 object-cover"
+            />
+            <div className="absolute inset-0 bg-gradient-to-t from-black/70 to-transparent opacity-0 group-hover:opacity-100 transition-opacity duration-300">
+              <p className="absolute bottom-4 right-4 text-white text-lg">חווה ואחותה מרתה </p>
+            </div>
+          </div>
+          <div className="group relative overflow-hidden rounded-xl shadow-xl transition-transform duration-300 hover:scale-105">
+            <img 
+              // Replace with your first Google Photos URL
+              src={img22}
+              alt="חווה עם משפחתה" 
+              className="w-full h-80 object-cover"
+            />
+            <div className="absolute inset-0 bg-gradient-to-t from-black/70 to-transparent opacity-0 group-hover:opacity-100 transition-opacity duration-300">
+              <p className="absolute bottom-4 right-4 text-white text-lg">חווה ואחותה מרתה </p>
+            </div>
+          </div>
+          <div className="group relative overflow-hidden rounded-xl shadow-xl transition-transform duration-300 hover:scale-105">
+            <img 
+              // Replace with your first Google Photos URL
+              src={img23}
+              alt="חווה עם משפחתה" 
+              className="w-full h-80 object-cover"
+            />
+            <div className="absolute inset-0 bg-gradient-to-t from-black/70 to-transparent opacity-0 group-hover:opacity-100 transition-opacity duration-300">
+              <p className="absolute bottom-4 right-4 text-white text-lg">חווה ואחותה מרתה </p>
+            </div>
+          </div>
+          <div className="group relative overflow-hidden rounded-xl shadow-xl transition-transform duration-300 hover:scale-105">
+            <img 
+              // Replace with your first Google Photos URL
+              src={img24}
+              alt="חווה עם משפחתה" 
+              className="w-full h-80 object-cover"
+            />
+            <div className="absolute inset-0 bg-gradient-to-t from-black/70 to-transparent opacity-0 group-hover:opacity-100 transition-opacity duration-300">
+              <p className="absolute bottom-4 right-4 text-white text-lg">חווה ואחותה מרתה </p>
+            </div>
+          </div>
+          <div className="group relative overflow-hidden rounded-xl shadow-xl transition-transform duration-300 hover:scale-105">
+            <img 
+              // Replace with your first Google Photos URL
+              src={img25}
+              alt="חווה עם משפחתה" 
+              className="w-full h-80 object-cover"
+            />
+            <div className="absolute inset-0 bg-gradient-to-t from-black/70 to-transparent opacity-0 group-hover:opacity-100 transition-opacity duration-300">
+              <p className="absolute bottom-4 right-4 text-white text-lg">חווה ואחותה מרתה </p>
+            </div>
+          </div>
+          <div className="group relative overflow-hidden rounded-xl shadow-xl transition-transform duration-300 hover:scale-105">
+            <img 
+              // Replace with your first Google Photos URL
+              src={img26}
               alt="חווה עם משפחתה" 
               className="w-full h-80 object-cover"
             />
