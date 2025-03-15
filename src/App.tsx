@@ -260,7 +260,7 @@ export default function App() {
       <footer className="bg-black text-white py-12">
         <div className="text-center space-y-4">
           <p className="text-xl">נזכור ונאהב תמיד</p>
-          <p className="text-sm text-gray-400">2025 © כל הזכויות שמורות למשפחת סולומון</p>
+          <p className="text-sm text-gray-400">2025 © כל הזכויות שמורות לשחר סולומון</p>
         </div>
       </footer>
     </div>
