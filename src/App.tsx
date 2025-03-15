@@ -1,4 +1,16 @@
 import { Heart, Star, Music, Quote, Home, Baby, Calendar, Flower } from 'lucide-react';
+import img1 from '../img_1.jpg';
+import img2 from '../img_2.jpg';
+import img3 from '../img_3.jpg';
+import img4 from '../img_4.jpg';
+import img5 from '../img_5.jpg';
+import img6 from '../img_6.jpg';
+import img7 from '../img_7.jpg';
+import img8 from '../img_8.jpg';
+import img9 from '../img_9.jpg';
+import img10 from '../img_10.jpg';
+
+
 
 export default function App() {
   return (
@@ -94,7 +106,7 @@ export default function App() {
         <div className="group relative overflow-hidden rounded-xl shadow-xl transition-transform duration-300 hover:scale-105">
             <img 
               // Replace with your first Google Photos URL
-              src="img_3.jpg" 
+              src={img3}
               alt="חווה עם משפחתה" 
               className="w-full h-80 object-cover"
             />
@@ -109,7 +121,7 @@ export default function App() {
           <div className="group relative overflow-hidden rounded-xl shadow-xl transition-transform duration-300 hover:scale-105">
             <img 
               // Replace with your first Google Photos URL
-              src="img_4.jpg" 
+              src={img4}
               alt="חווה עם משפחתה" 
               className="w-full h-80 object-cover"
             />
@@ -120,7 +132,7 @@ export default function App() {
           <div className="group relative overflow-hidden rounded-xl shadow-xl transition-transform duration-300 hover:scale-105">
             <img 
               // Replace with your first Google Photos URL
-              src="img_5.jpg" 
+              src={img5}
               alt="חווה עם משפחתה" 
               className="w-full h-80 object-cover"
             />
@@ -131,7 +143,7 @@ export default function App() {
           <div className="group relative overflow-hidden rounded-xl shadow-xl transition-transform duration-300 hover:scale-105">
             <img 
               // Replace with your first Google Photos URL
-              src="img_6.jpg" 
+              src={img6}
               alt="חווה עם משפחתה" 
               className="w-full h-80 object-cover"
             />
@@ -142,7 +154,7 @@ export default function App() {
           <div className="group relative overflow-hidden rounded-xl shadow-xl transition-transform duration-300 hover:scale-105">
             <img 
               // Replace with your first Google Photos URL
-              src="img_7.jpg" 
+              src={img7}
               alt="חווה עם משפחתה" 
               className="w-full h-80 object-cover"
             />
@@ -153,7 +165,7 @@ export default function App() {
           <div className="group relative overflow-hidden rounded-xl shadow-xl transition-transform duration-300 hover:scale-105">
             <img 
               // Replace with your first Google Photos URL
-              src="img_8.jpg" 
+              src={img8}
               alt="חווה עם משפחתה" 
               className="w-full h-80 object-cover"
             />
@@ -165,7 +177,7 @@ export default function App() {
         <div className="group relative overflow-hidden rounded-xl shadow-xl transition-transform duration-300 hover:scale-105">
             <img
               // Replace with your first Google Photos URL
-              src="img_9.jpg"
+              src={img9}
               alt="חווה עם משפחתה"
               className="w-full h-80 object-cover"
             />
@@ -177,7 +189,7 @@ export default function App() {
           <div className="group relative overflow-hidden rounded-xl shadow-xl transition-transform duration-300 hover:scale-105">
             <img 
               // Replace with your second Google Photos URL
-              src="img_2.jpg" 
+              src={img10}
               alt="חווה בנצרת עילית" 
               className="w-full h-80 object-cover"
             />
@@ -188,7 +200,7 @@ export default function App() {
           <div className="group relative overflow-hidden rounded-xl shadow-xl transition-transform duration-300 hover:scale-105">
             <img 
               // Replace with your third Google Photos URL
-              src="img_1.jpg" 
+              src={img1}
               alt="חווה בגן הילדים" 
               className="w-full h-80 object-cover"
             />
@@ -199,7 +211,7 @@ export default function App() {
           <div className="group relative overflow-hidden rounded-xl shadow-xl transition-transform duration-300 hover:scale-105">
             <img 
               // Replace with your first Google Photos URL
-              src="img_3.jpg" 
+              src={img2}
               alt="חווה עם משפחתה" 
               className="w-full h-80 object-cover"
             />
@@ -210,7 +222,7 @@ export default function App() {
           <div className="group relative overflow-hidden rounded-xl shadow-xl transition-transform duration-300 hover:scale-105">
             <img 
               // Replace with your first Google Photos URL
-              src="img_10.jpg" 
+              src={img9}
               alt="חווה עם משפחתה" 
               className="w-full h-80 object-cover"
             />
