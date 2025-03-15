@@ -148,7 +148,7 @@ export default function App() {
               className="w-full h-80 object-cover"
             />
             <div className="absolute inset-0 bg-gradient-to-t from-black/70 to-transparent opacity-0 group-hover:opacity-100 transition-opacity duration-300">
-              <p className="absolute bottom-4 right-4 text-white text-lg">חווה בזמנים טובים </p>
+              <p className="absolute bottom-4 right-4 text-white text-lg">חווה בחתונה עם דוב </p>
             </div>
           </div>
           <div className="group relative overflow-hidden rounded-xl shadow-xl transition-transform duration-300 hover:scale-105">
